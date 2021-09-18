@@ -7,6 +7,7 @@ There are six different types of news we can see in this app
 4. Food
 5. Technology
 6. Sports
+
 Screenshots of App are attached below:
 
 HomePage:
